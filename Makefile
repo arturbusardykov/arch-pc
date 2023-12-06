@@ -1,4 +1,4 @@
-COURSE = 
+COURSE =
 
 .PHONY: all clean
 
