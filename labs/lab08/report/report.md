@@ -72,14 +72,14 @@ header-includes:
 
 ## Выполнение работы
 ![lab8-1](https://github.com/arturbusardykov/arch-pc/assets/98996689/3aeef6b7-4e27-446f-9aa6-3dff1e57f432)
-Создал каталог и файл lab8-1.asm, ввел в него код из листинга
+Создал каталог и файл lab8-1.asm, ввел в него код из листинга. Запустил файл
 
 ![lab8-2](https://github.com/arturbusardykov/arch-pc/assets/98996689/e42bbac2-c875-4ef6-be1f-b498dfc23841)
-Изменил файл
+Изменил файл и запустил
 
 ![lab8-3](https://github.com/arturbusardykov/arch-pc/assets/98996689/7a4e56b4-3613-45b6-b40d-5cababb1b80f)
 Создал новый файл, ввел в него код из листинга
-
+Запустил, увидел разницу.
 ![lab8-4](https://github.com/arturbusardykov/arch-pc/assets/98996689/fee1fb07-7b61-4549-b049-301cf894bfaa)
 Опять изменил файл и вывел результат.
 
@@ -88,11 +88,11 @@ header-includes:
 ![lab8-5](https://github.com/arturbusardykov/arch-pc/assets/98996689/10684d3d-6a6c-491d-859d-b2d03bce133c)
 
 Создал новый файл и запустил его с аргументами 
-Получил результат
+Получил результат с произведением аргументов
 ![lab8-6](https://github.com/arturbusardykov/arch-pc/assets/98996689/89a693ce-a34f-4b44-af2b-a38f25b31aa7)
 
 
-##Вывод:
+# #Вывод:
 Приобрел навыки написания програм с использованием циклов и обработкой аргументов командной строки
 
 
