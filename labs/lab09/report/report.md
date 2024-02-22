@@ -113,7 +113,38 @@ header-includes:
 
 Здесь кратко описываются итоги проделанной работы.
 
-# Список литературы{.unnumbered}
 
-::: {#refs}
-:::
+
+## Цель Работы:
+Приобретение навыков написания программ с использованием подпрограмм. Знакомство
+с методами отладки при помощи GDB и его основными возможностями.
+
+
+## Выполнение работы
+
+![image](https://github.com/arturbusardykov/arch-pc/assets/98996689/b006633c-3ef3-4cb7-ad41-06cb03c0f519)
+
+Создал каталог и файл, выполнил и ввел X.
+
+![image](https://github.com/arturbusardykov/arch-pc/assets/98996689/77d06d07-8f29-4887-a5ac-9730c3f72ee6)
+
+Создал другой файл - lab09-2.asm и с помощью дополнительных параметров -g -l исполнил, и запустил с gdb.
+Результат:
+![image](https://github.com/arturbusardykov/arch-pc/assets/98996689/97ac3273-fc1d-4670-8298-a51f60bf8438)
+
+Зашел в gdb, добавил точки остановки
+![lab9-5](https://github.com/arturbusardykov/arch-pc/assets/98996689/05386f88-49f5-4c7a-90fd-caf741abbe31)
+
+
+
+![lab9-6](https://github.com/arturbusardykov/arch-pc/assets/98996689/42876f33-c4f1-4b7d-a84b-d15dfe774956)
+Провел работы по изучению команд:
+Вывел на экран:
+
+![lab9-7](https://github.com/arturbusardykov/arch-pc/assets/98996689/aec6ed1f-6b0f-4616-94a7-c58ec8e45ed6)
+
+![lab9-8](https://github.com/arturbusardykov/arch-pc/assets/98996689/b3f7a39e-48eb-4963-8a06-f6a0d3fb1d3f)
+
+## Вывод:
+Приобрел навыки написания програм с использованием подпрограмм. 
+Познакомился с методами отладки при помощи GDB и его основными возможностями 
