@@ -93,4 +93,5 @@ header-includes:
 ![лаб_6-7](https://github.com/arturbusardykov/arch-pc/assets/98996689/c4767911-c7d2-45ad-9dbf-f89790d225d2)
 
 
-
+Вывод:
+Изучил арифметические операции языка Ассемблер NASM
