@@ -71,15 +71,26 @@ header-includes:
 Освоить арифметические операции языка ассемблера NASM
 
 ## Порядок выполнения лаб.работы:
+
+Создал каталог и файл, lab06 и lab6-1.asm 
 ![лаб_6-1](https://github.com/arturbusardykov/arch-pc/assets/98996689/ad4e2e64-c7cc-48ce-b3df-2e7a27cf7695)
+Вставил текст из лаб.работы в файл и сделал его исполняемым. Запустил.
+Вывелась буква j.
 
 ![лаб_6-2](https://github.com/arturbusardykov/arch-pc/assets/98996689/4031b1d8-72b2-4767-b163-d27987bb98c7)
+
+Заменил текст в файле lab6-1.asm, должно было вывести число 10, но ничего не вывелось.
+
+
 ![лаб_6-3](https://github.com/arturbusardykov/arch-pc/assets/98996689/02e0f4f2-4a91-41d9-ba37-55dbccad2b50)
 
+Создал файл lab6-2.asm и вставил текст. Сделал его исполняемым и запустил. В результате вывелось 106.
 ![лаб_6-4](https://github.com/arturbusardykov/arch-pc/assets/98996689/b3b73b67-d643-49d5-b0f4-c1fc99e1e96f)
 
+Создал файл lab6-3.asm и вставил туда код. Сделал исполняемым и запустил.
 ![лаб_6-6PNG](https://github.com/arturbusardykov/arch-pc/assets/98996689/52385313-434d-4823-9411-e8227d68328e)
 
+Далее создал файл variant.asm, ввел код для выдачи варианта на базе студ.билета.
 ![лаб_6-7](https://github.com/arturbusardykov/arch-pc/assets/98996689/c4767911-c7d2-45ad-9dbf-f89790d225d2)
 
 
