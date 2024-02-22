@@ -66,8 +66,6 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
-# Список литературы{.unnumbered}
-
 ::: {#refs}
 :::
  ## Цель работы
@@ -77,9 +75,16 @@ header-includes:
 В соответствующем каталоге сделайте отчёт по лабораторной работе No 2 в формате Markdown. В качестве отчёта необходимо предоставить отчёты в 3 форматах: pdf, docx и md.
 Загрузите файлы на github.
 Выполнение лабораторной работы
-Спомощью команды cd мы перешли в директорию /work/study/2023-2024/"Архитектура компьютера"/arch-pc/labs/lab03/report, а затем спомощью команды make создали файлы report.docx report.md report.pdf (рис. @fig:001).
+Спомощью команды cd мы перешли в директорию /work/study/2023-2024/"Архитектура компьютера"/arch-pc/labs/lab03/report, а затем спомощью команды make создали файлы report.docx report.md report.pdf 
+![лаб3-1](https://github.com/arturbusardykov/arch-pc/assets/98996689/0a32c36d-82ca-4575-9f90-dc662313efbe)
+![лаб3-2](https://github.com/arturbusardykov/arch-pc/assets/98996689/a26312de-da23-4a9e-abfa-350d07099d24)
 
-создание файлов pdf, docx и md.отчёта{#fig:001 width=70%}
+
+
+
+И затем загрузил на github
+
+
 
 ## Выводы
 В этой работе мы научились работать с языком Markdown используя средства командной строки.
