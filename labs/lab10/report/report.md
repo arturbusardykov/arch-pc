@@ -1,8 +1,8 @@
 ---
 ## Front matter
 title: "Лабораторная работа №10. Работа с файлами средствами Nasm"
-subtitle: "НПМбв-01-21"
-author: "Ермаков Алексей"
+subtitle: "НПМбв-02-21"
+author: "Бусардыков Артур"
 
 ## Generic otions
 lang: ru-RU
